@@ -1,4 +1,4 @@
-![Industrial Hose Manufacturing VR Training](banner.png)
+![Industrial Hose Manufacturing VR Training](media/Industrial%20Hose%20VR%20Training%20Showcase.png)
 
 # Industrial Hose Manufacturing VR Training
 
