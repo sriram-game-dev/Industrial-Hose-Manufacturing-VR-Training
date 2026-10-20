@@ -1,66 +1,33 @@
+![Industrial Hose Manufacturing VR Training](banner.png)
+
 # Industrial Hose Manufacturing VR Training
 
 **Unity · C# · Meta SDK Interaction Toolkit · Meta Quest · VR**
 
-![Overview demo](media/overview/overview.gif)
+*Banner is an illustrative graphic, not a capture from the application.*
 
-▶ **[Watch the full demo](YOUR_YOUTUBE_OVERVIEW_LINK)**
+## Description
 
-> 5 training modules · Meta Quest · Unity / C# · Multi-language
+Industrial Hose Manufacturing VR Training is a large-scale virtual reality
+training application built in Unity and C# for Meta Quest. It teaches
+Industrial Hose manufacturing through hands-on practice: instead of reading
+manuals, trainees step into interactive virtual manufacturing environments,
+operate equipment, tools and machinery, and follow guided, step-by-step
+workflows that walk them through each production procedure.
 
-## Overview
-
-- Developed a large-scale VR training application focused on Industrial Hose manufacturing using Unity and C#.
-- Structured the application into specialized training modules covering different manufacturing processes.
-- Created interactive virtual manufacturing environments to simulate production procedures and workplace activities.
-- Designed step-by-step training workflows to guide users through manufacturing processes and operational procedures.
-- Implemented interactive equipment, tools, machinery, and process-specific objects for hands-on VR training.
-- Provided a consistent training experience across multiple Industrial Hose manufacturing modules.
+The application is organised into five specialized training modules, each
+covering a different manufacturing process, while keeping one consistent
+training experience across all of them. Instructions, task information,
+progress and feedback are shown through in-VR UI, and the experience supports
+multiple languages.
 
 ## Modules
 
-| Module | Demo |
-|---|---|
-| Metal-Based | [Watch video](YOUR_METAL_VIDEO_LINK) |
-| Rubber-Based | [Watch video](YOUR_RUBBER_VIDEO_LINK) |
-| Nylon-Based | [Watch video](YOUR_NYLON_VIDEO_LINK) |
-| Beading | [Watch video](YOUR_BEADING_VIDEO_LINK) |
-| Aerospace | [Watch video](YOUR_AEROSPACE_VIDEO_LINK) |
-
-### 1. Industrial Hose - Metal-Based Module
-Short description of the process this module teaches.
-
-![Metal module](media/metal-module/screenshot-1.png)
-
-▶ [Watch video](YOUR_METAL_VIDEO_LINK)
-
-### 2. Industrial Hose - Rubber-Based Module
-Short description of the process this module teaches.
-
-![Rubber module](media/rubber-module/screenshot-1.png)
-
-▶ [Watch video](YOUR_RUBBER_VIDEO_LINK)
-
-### 3. Industrial Hose - Nylon-Based Module
-Short description of the process this module teaches.
-
-![Nylon module](media/nylon-module/screenshot-1.png)
-
-▶ [Watch video](YOUR_NYLON_VIDEO_LINK)
-
-### 4. Industrial Hose - Beading Module
-Short description of the process this module teaches.
-
-![Beading module](media/beading-module/screenshot-1.png)
-
-▶ [Watch video](YOUR_BEADING_VIDEO_LINK)
-
-### 5. Industrial Hose - Aerospace Module
-Short description of the process this module teaches.
-
-![Aerospace module](media/aerospace-module/screenshot-1.png)
-
-▶ [Watch video](YOUR_AEROSPACE_VIDEO_LINK)
+- Industrial Hose - Metal-Based Module
+- Industrial Hose - Rubber-Based Module
+- Industrial Hose - Nylon-Based Module
+- Industrial Hose - Beading Module
+- Industrial Hose - Aerospace Module
 
 ## Features
 
@@ -73,13 +40,6 @@ Short description of the process this module teaches.
 - Interactive training scenarios simulating practical manufacturing activities.
 - Multiple manufacturing workflows within a single VR training application.
 - Multi-language support for the training experience.
-
-## Screenshots
-
-| | |
-|---|---|
-| ![Instruction UI](media/overview/screenshot-instructions.png) | ![Progress UI](media/overview/screenshot-progress.png) |
-| ![Equipment interaction](media/overview/screenshot-equipment.png) | ![Language options](media/overview/screenshot-language.png) |
 
 ## My Contribution
 
@@ -96,11 +56,6 @@ Short description of the process this module teaches.
 ## Technologies
 
 `Unity` · `C#` · `Meta SDK Interaction Toolkit` · `Meta Quest` · `VR`
-
-## Note
-
-This repository is a showcase of the project (videos and screenshots).
-The source code and build are not publicly included.
 
 ## Contact
 
